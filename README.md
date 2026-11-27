@@ -10,6 +10,7 @@
 
 | 지금 필요한 일 | 읽을 곳 |
 |---|---|
+| 당근 SEED로 한국어 제품 화면 설계하기 | [SEED 활용 가이드 — 조판·문구·컴포넌트·모바일 패턴·AI 도구](skills/korean-web-design/references/seed-design.md) |
 | 첫 방문자가 결과를 이해하는 랜딩, 기존 제품의 UX 리뷰 | [설계와 검증 순서](skills/korean-web-design/SKILL.md) |
 | 어색한 한글 제목, 기기별 글꼴, 긴 레이블, 줄바꿈 | [한국어 조판과 문구](skills/korean-web-design/references/korean-type.md) |
 | 국내 레퍼런스, MCP, 스킬, 오픈소스, 영상 고르기 | [용도별 자료와 도구](skills/korean-web-design/references/toolkit.md) |

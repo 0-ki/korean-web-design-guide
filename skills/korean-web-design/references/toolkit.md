@@ -4,6 +4,7 @@
 
 | 결정 | 후보 | 사용법 |
 |---|---|---|
+| 한국어 제품 UI의 위계·문구·상태 | [당근 SEED 활용 가이드](seed-design.md) | Foundations에서 역할을 정하고 Components와 Patterns에서 해당 동작을 확인한다. 에이전트는 공식 문서 색인으로 바로 들어갈 수 있다. |
 | 랜딩의 사진·구도·타이포 | [Muzli](https://muz.li/) · [Lapa Ninja](https://www.lapa.ninja/) · [브런치](https://brunch.co.kr/) · [29CM](https://www.29cm.co.kr/) | 해외 사례에서 첫 화면 구도를 골랐다면 국내 콘텐츠에 실제 길이의 제목을 넣어 사진 비중과 정보 위계를 다시 잡는다. |
 | 가입·입력·실패·복귀 동선 | [Mobbin](https://mobbin.com/) · [Mobbin MCP](https://mobbin.com/mcp) | 목표가 비슷한 흐름의 앞뒤 화면을 살핀다. 사례 검색을 자주 위임할 때 MCP의 제공 플랜을 확인한다. |
 | CSS 패턴과 브라우저 호환성 | [Google Modern Web Guidance](https://github.com/GoogleChrome/modern-web-guidance) | 구현 직전 한 가지 문제로 검색한 뒤 해당 가이드를 읽는다. 예를 들어 CLI에서 `npx -y modern-web-guidance@latest search "wrap text lines"`를 실행하고 결과의 ID로 retrieve한다. 한국어 조판은 KLREQ와 대조한다. |

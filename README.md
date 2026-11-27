@@ -18,3 +18,5 @@
 **개인 스킬로 설치하기**　저장소를 복제한 후 `skills/korean-web-design` 폴더를 Codex의 `~/.agents/skills/` 또는 Claude Code의 `~/.claude/skills/` 아래에 복사하세요. 두 앱이 같은 버전을 사용하도록 각 위치에서 원본 폴더를 가리키는 디렉터리 링크를 만들어도 됩니다. 새 세션에서 Codex는 `$korean-web-design`, Claude Code는 `/korean-web-design`으로 호출할 수 있습니다.
 
 가이드 본문은 [MIT 라이선스](LICENSE)로 배포합니다. 연결한 서체·컴포넌트·서비스는 각각의 제공 조건을 따릅니다.
+
+새 시안 제작, 여러 방향 비교, 기존 초안 마무리에 사용할 [디자인 요청 프롬프트](skills/korean-web-design/references/design-prompts.md)를 제공합니다.
